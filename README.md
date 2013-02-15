@@ -1,4 +1,4 @@
-jQuery Redist
+Mustache.js Redist
 =============
 
 What is it?
